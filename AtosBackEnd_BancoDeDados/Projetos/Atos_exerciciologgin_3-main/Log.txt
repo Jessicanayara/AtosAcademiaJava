@@ -1,0 +1,56 @@
+mai 01, 2023 6:37:17 PM BancoDeDados main
+INFO: Log de informação
+mai 01, 2023 6:37:17 PM BancoDeDados main
+WARNING: Log de Aviso
+mai 01, 2023 6:37:17 PM BancoDeDados main
+SEVERE: Log Severo
+mai 01, 2023 6:37:17 PM BancoDeDados main
+INFO: 
+ iniciando Banco de dados
+mai 01, 2023 6:37:17 PM BancoDeDados main
+INFO: 
+ iniciando Banco de dados
+mai 01, 2023 6:44:09 PM BancoDeDados main
+INFO: Log de informação
+mai 01, 2023 6:44:09 PM BancoDeDados main
+WARNING: Log de Aviso
+mai 01, 2023 6:44:09 PM BancoDeDados main
+SEVERE: Log Severo
+mai 01, 2023 6:44:09 PM BancoDeDados main
+INFO: 
+ iniciando Banco de dados
+mai 01, 2023 6:44:09 PM BancoDeDados main
+INFO: 
+ iniciando Banco de dados
+mai 01, 2023 6:44:10 PM BancoDeDados main
+INFO: 
+ iniciando consulta com Banco de dados
+mai 01, 2023 6:51:36 PM BancoDeDados main
+INFO: Log de informação
+mai 01, 2023 6:51:36 PM BancoDeDados main
+WARNING: Log de Aviso
+mai 01, 2023 6:51:36 PM BancoDeDados main
+SEVERE: Log Severo
+mai 01, 2023 6:51:36 PM BancoDeDados main
+INFO: 
+ iniciando Banco de dados
+mai 01, 2023 6:51:36 PM BancoDeDados main
+INFO: 
+ iniciando Banco de dados
+mai 01, 2023 6:51:36 PM BancoDeDados conectar
+WARNING: conectando ao banco
+mai 01, 2023 6:51:36 PM BancoDeDados main
+INFO: 
+ iniciando consulta com Banco de dados
+mai 01, 2023 6:51:36 PM BancoDeDados consultar
+WARNING: consultando banco
+mai 01, 2023 6:51:37 PM BancoDeDados main
+INFO: 
+ iniciando alteração no Banco de dados
+mai 01, 2023 6:51:37 PM BancoDeDados inserirAlterarExcluir
+WARNING: inserindo ao banco
+mai 01, 2023 6:51:37 PM BancoDeDados main
+INFO: 
+ Desconectando o Banco de dados
+mai 01, 2023 6:51:37 PM BancoDeDados desconectar
+WARNING: desconectando ao banco

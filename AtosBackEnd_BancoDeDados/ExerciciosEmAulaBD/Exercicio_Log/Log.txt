@@ -1,0 +1,6 @@
+abr 27, 2023 7:29:36 PM br.com.loggin.principal main
+INFO: Log de informação
+abr 27, 2023 7:29:36 PM br.com.loggin.principal main
+WARNING: Log de Aviso
+abr 27, 2023 7:29:36 PM br.com.loggin.principal main
+SEVERE: Log Severo

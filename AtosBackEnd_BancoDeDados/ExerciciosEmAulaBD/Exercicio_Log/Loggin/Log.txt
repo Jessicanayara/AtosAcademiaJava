@@ -1,0 +1,6 @@
+out. 10, 2022 5:48:17 PM br.com.loggin.principal main
+INFORMAÇÕES: Log de informação
+out. 10, 2022 5:48:17 PM br.com.loggin.principal main
+ADVERTÊNCIA: Log de Aviso
+out. 10, 2022 5:48:17 PM br.com.loggin.principal main
+GRAVE: Log Severo

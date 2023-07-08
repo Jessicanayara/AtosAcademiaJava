@@ -1,0 +1,18 @@
+abr 27, 2023 10:01:24 PM Principal main
+INFO: Log de informação
+abr 27, 2023 10:01:24 PM Principal main
+WARNING: Log de Aviso
+abr 27, 2023 10:01:24 PM Principal main
+SEVERE: Log Severo
+abr 27, 2023 10:01:24 PM Principal main
+INFO: 
+ iniciando a calculadora
+abr 27, 2023 10:01:38 PM Principal main
+INFO: 
+ o usuario inseriu um operador
+abr 27, 2023 10:01:44 PM Principal main
+INFO: 
+ o usuario inseriu os valores
+abr 27, 2023 10:01:44 PM Principal main
+INFO: 
+ fim da operação, o resultado é 5.0

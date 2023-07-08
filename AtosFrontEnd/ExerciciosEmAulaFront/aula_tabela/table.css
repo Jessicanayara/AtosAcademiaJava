@@ -1,0 +1,12 @@
+table{
+    margin: 40px auto;
+    min-width: 900px;
+    border-collapse: collapse;
+}
+
+caption{
+
+    font-size: 2.5rem;
+    text-align: left;
+    margin-bottom: 20px;
+}
